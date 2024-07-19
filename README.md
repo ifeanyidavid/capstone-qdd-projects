@@ -24,7 +24,7 @@ By using QDD, learners can facilitate and accelerate the process of learning a n
 
 ## Reference
 
-For more insights about Question-Driven Development, you can read this article [QDD].
+For more insights about Question-Driven Development, you can read this [article].
 
 ## Contributing
 
@@ -46,4 +46,4 @@ Happy Learning!
   
 
 
-[QDD]: https://nickjanetakis.com/blog/learning-a-new-web-framework-with-question-driven-development
+[article]: https://nickjanetakis.com/blog/learning-a-new-web-framework-with-question-driven-development
